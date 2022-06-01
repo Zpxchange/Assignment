@@ -1,9 +1,5 @@
 print("WELCOME TO REGISTER AND LOGIN PORTAL")
 welcome = input("Do you have an account YES/NO: ")
-if "yes" == "no":
-    print(welcome)
-else:
-    print("")
 
 if welcome == "no":
     while True:
